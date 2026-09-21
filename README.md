@@ -4,7 +4,7 @@
 
 # PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images
 
-[Hongwen Zhang](https://github.com/HongwenZhang) · [Yating Tian](https://github.com/tinatiansjz) · [Yuxiang Zhang](https://zhangyux15.github.io) · [Mengcheng Li](https://github.com/Dw1010) · [Liang An](https://anl13.github.io) · [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun) · [Yebin Liu]([https://www.liuyebin.com](https://scholar.google.com/citations?user=ogXIdlYAAAAJ&hl=en))
+[Hongwen Zhang](https://github.com/HongwenZhang) · [Yating Tian](https://github.com/tinatiansjz) · [Yuxiang Zhang](https://zhangyux15.github.io) · [Mengcheng Li](https://github.com/Dw1010) · [Liang An](https://anl13.github.io) · [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun) · [Yebin Liu](https://scholar.google.com/citations?user=ogXIdlYAAAAJ&hl=en)
 
 ## TPAMI 2023
 
