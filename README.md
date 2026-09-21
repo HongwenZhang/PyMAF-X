@@ -4,11 +4,11 @@
 
 # PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images
 
-[Hongwen Zhang](https://github.com/HongwenZhang) · [Yating Tian](https://github.com/tinatiansjz) · [Yuxiang Zhang](https://zhangyux15.github.io) · [Mengcheng Li](https://github.com/Dw1010) · [Liang An](https://anl13.github.io) · [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun) · [Yebin Liu](https://www.liuyebin.com)
+[Hongwen Zhang](https://github.com/HongwenZhang) · [Yating Tian](https://github.com/tinatiansjz) · [Yuxiang Zhang](https://zhangyux15.github.io) · [Mengcheng Li](https://github.com/Dw1010) · [Liang An](https://anl13.github.io) · [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun) · [Yebin Liu]([https://www.liuyebin.com](https://scholar.google.com/citations?user=ogXIdlYAAAAJ&hl=en))
 
 ## TPAMI 2023
 
-### [Project Page](https://www.liuyebin.com/pymaf-x) | [Video](https://www.bilibili.com/video/BV1pN4y1T7dY) | [Paper](https://arxiv.org/abs/2207.06400)
+### [Project Page](https://zhanghongwen.cn/pymaf-x) | [Video](https://www.bilibili.com/video/BV1pN4y1T7dY) | [Paper](https://arxiv.org/abs/2207.06400)
 
 </div>
 
@@ -21,7 +21,7 @@
     <br>
     <sup>Reconstruction result on a COCO validation image.</sup>
     <br>
-    <a href="https://www.liuyebin.com/pymaf-x" target="_blank"><i>Click Here</i></a> for More Results
+    <a href="https://zhanghongwen.cn/pymaf-x" target="_blank"><i>Click Here</i></a> for More Results
 </p>
 
 ## Installation
